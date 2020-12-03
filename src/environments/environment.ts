@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: true,
+    firebase: {
+    apiKey: "AIzaSyDKrESNI9-rq9CaCUBXdVqCxrSTFRGRbZE",
+    authDomain: "afigenda-bisonte.firebaseapp.com",
+    databaseURL: "https://afigenda-bisonte.firebaseio.com",
+    projectId: "afigenda-bisonte",
+    storageBucket: "afigenda-bisonte.appspot.com",
+    messagingSenderId: "918568441329",
+    appId: "1:918568441329:web:4846a4862cfd9a0897e050"
+  }
 };
 
 /*

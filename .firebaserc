@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "calendario-angular-525a3": {
+      "hosting": {
+        "calendar-angular": [
+          "calendario-angular-525a3"
+        ]
+      }
+    }
+  }
+}
